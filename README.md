@@ -39,8 +39,7 @@ Siga os passos abaixo para executar o projeto em sua máquina.
 
 ```bash
 # 1. Clone o repositório
-# (Substitua a URL pela URL do seu repositório no GitHub)
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+git clone [https://github.com/DaniloM05/desafio-ibge-sparta.git](https://github.com/DaniloM05/desafio-ibge-sparta.git)
 
 # 2. Navegue até a pasta do projeto
 cd NOME_DO_REPOSITORIO
