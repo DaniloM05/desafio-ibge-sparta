@@ -40,7 +40,7 @@ Siga os passos abaixo para executar o projeto em sua máquina.
 git clone [https://github.com/DaniloM05/desafio-ibge-sparta.git](https://github.com/DaniloM05/desafio-ibge-sparta.git)
 
 # 2. Navegue até a pasta do projeto
-cd NOME_DO_REPOSITORIO
+cd desafio-ibge-sparta
 
 # 3. Instale as dependências do projeto
 npm install
