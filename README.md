@@ -2,8 +2,6 @@
 
 Aplicação web desenvolvida como parte do desafio técnico da Sparta. O objetivo é consumir e apresentar dados de diferentes endpoints da API pública do IBGE, seguindo um layout pré-definido e demonstrando o uso de tecnologias modernas de front-end.
 
-**[➡️ Link para o Deploy (Vercel/Netlify)]()** *(Substitua este link após fazer o deploy)*
-
 ---
 
 ## ✨ Features
